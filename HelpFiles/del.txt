@@ -1,0 +1,1 @@
+ del <file> = delete given file 

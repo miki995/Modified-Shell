@@ -1,0 +1,12 @@
+ help = shows all the commands. 
+ time = shows current time and date
+ clr = clear console
+ quit = exit from application  
+ cd <directory> = change directory  
+ copy <source> <destination> = copy existing file into new one 
+ del <file> = delete given file 
+ dir = show all  files and folders into current directory 
+ dir <directory> = show all  files and folders in given directory 
+ echo <text> = print on console given text and new line  
+ move <source> <destination> = move existing file into new one   
+ rmdir <directory> = delete given directory

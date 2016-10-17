@@ -1,0 +1,1 @@
+echo <text> = print on console given text and new line  

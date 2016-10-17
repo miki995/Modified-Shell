@@ -1,0 +1,1 @@
+mkdir <directory> = in current directory makes new one with given name

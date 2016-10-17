@@ -1,0 +1,1 @@
+copy <source> <destination> = copy existing file into new one 

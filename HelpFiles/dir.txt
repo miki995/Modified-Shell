@@ -1,0 +1,1 @@
+ dir <directory> = show all  files and folders in given directory

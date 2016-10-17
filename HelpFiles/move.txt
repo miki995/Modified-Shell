@@ -1,0 +1,1 @@
+move <source> <destination> = move existing file into new one
